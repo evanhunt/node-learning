@@ -9,3 +9,5 @@
 [Node.js 文档](http://nodejs.cn/api/)
 
 [Express](http://expressjs.com/zh-cn/)
+
+[RESTful 架构详解](http://www.runoob.com/w3cnote/restful-architecture.html)
