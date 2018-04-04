@@ -1,5 +1,5 @@
 const fs = require("fs");
-const data = '菜鸟教程官网地址：www.runoob.com';
+const data = 'https://github.com/evanhunt/node-learning：https://github.com/evanhunt/node-learning';
 
 // 创建可写入的流, 写入到 output.txt中
 const writerStream = fs.createWriteStream("output.txt");

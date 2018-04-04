@@ -10,4 +10,4 @@
 
 [Express](http://expressjs.com/zh-cn/)
 
-[RESTful 架构详解](http://www.runoob.com/w3cnote/restful-architecture.html)
+[RESTful 架构详解](http://https://github.com/evanhunt/node-learning/w3cnote/restful-architecture.html)

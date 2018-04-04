@@ -7,7 +7,7 @@ for (var i = 0; i < 3; i++) {
      * 此处有坑
      * 路径后面需要加上空格
      * 否则报错
-     * Error: Cannot find module 'D:\node-learning\child\exec.support.js0'
+     * Error: Cannot find module 'D:\https://github.com/evanhunt/node-learning\child\exec.support.js0'
         at Function.Module._resolveFilename (module.js:527:15)
         at Function.Module._load (module.js:453:25)
         at Function.Module.runMain (module.js:665:10)
